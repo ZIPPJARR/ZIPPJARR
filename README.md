@@ -1,5 +1,5 @@
 # Hello All! Wlecome to my GitHub! 😄
-## WHo am I? 🤔 
+## Who am I? 🤔 
 Hello Again! I'm Avion Smith, a Newly begun devloper by day and a aspiring code ninja by night. When I'm not writing elegant code, you can find me debugging my lifes decisions and refactoring my daily routines.
 
 ## What Do I do? 💻
