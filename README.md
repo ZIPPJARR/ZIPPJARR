@@ -1,4 +1,13 @@
-# Hello All! Wlecome to my GitHub! 😄
+<a href="https://github.com/ZIPPJARR/convoychat">
+  <img height=190 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZIPPJARR&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/ZIPPJARR/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZIPPJARR" />
+</a>
+
+
+# Hello All! Welcome to my GitHub! 😄
+
 ## Who am I? 🤔 
 Hello Again! I'm Avion Smith, a Newly begun devloper by day and a aspiring code ninja by night. When I'm not writing elegant code, you can find me debugging my lifes decisions and refactoring my daily routines.
 
