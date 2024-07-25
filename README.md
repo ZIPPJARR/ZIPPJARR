@@ -1,8 +1,7 @@
 
-
-
 # Hello All! Welcome to my GitHub! 😄
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
 ## Who am I? 🤔 
 Hello Again! I'm Avion Smith, a Newly begun devloper by day and a aspiring code ninja by night. When I'm not writing elegant code, you can find me debugging my lifes decisions and refactoring my daily routines.
 
