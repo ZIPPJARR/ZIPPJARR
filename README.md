@@ -26,9 +26,7 @@ If you've read this far, you're either very interested or very bored. Either wa,
 - **LinkedIn**: (In the Works) 
 - **Email**:AKiree.smith@outlook.com (mailto:AKiree.smith@outlook.com)
 
-<a href="https://github.com/ZIPPJARR/convoychat">
-  <img height=165 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZIPPJARR&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 <a href="https://github.com/ZIPPJARR/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZIPPJARR" />
 </a>
